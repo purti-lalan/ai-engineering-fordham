@@ -1,2 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.python-version
 .env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# Temporary folders
 temp/
+
+# Data (raw datasets should not be committed)
+data/
+
