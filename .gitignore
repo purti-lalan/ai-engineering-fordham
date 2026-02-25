@@ -19,3 +19,7 @@ temp/
 # Data (raw datasets should not be committed)
 data/
 
+
+# Large local artifacts
+bge_embeddings.npy
+chunks_no_emb.pkl
